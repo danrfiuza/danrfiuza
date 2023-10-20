@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Daniel Fiuza, a self-taught and quick-learning Software web developer with 6+ years of experience, always looking for new career challenges and opportunities to work on projects that contribute to improving people’s lives.
 
 <!--
 **danrfiuza/danrfiuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

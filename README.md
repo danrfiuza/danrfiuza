@@ -1,22 +1,18 @@
 [![MasterHead](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)](https://github.com/danrfiuza)
 
-Hi there 👋 I'm Daniel Fiuza, a self-taught and quick-learning Software web developer with 6+ years of experience, always looking for new career challenges and opportunities to work on projects that contribute to improving people’s lives.
+# Hi there 👋, I'm Daniel Fiuza
+
+I'm a self-taught and quick-learning Software Developer with 7+ years of experience, always looking for new career challenges and opportunities to work on projects that contribute to improving people’s lives.
 
 ---
-<!--
-**danrfiuza/danrfiuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a variety of projects involving **Laravel**, **Vue.js**, **Tailwind CSS**, and **D3.js**.
+- 🌱 I’m continually learning and experimenting with new tools like **Element Plus** and improving my **MySQL query optimization**.
+- 💬 Ask me about **Web Development**, **APIs**, **Data Science**, or **Database Management**.
+- 📫 How to reach me: [daniel.fiuza@hotmail.com](mailto:daniel.fiuza@hotmail.com)
+- ⚡ Fun fact: I enjoy space exploration topics, as you might notice from my profile banner!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 <p align="center">
   <a href="https://github.com/danrfiuza/github-readme-stats">
@@ -33,5 +29,3 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-
----

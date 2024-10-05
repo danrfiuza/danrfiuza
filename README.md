@@ -1,4 +1,4 @@
-[![MasterHead](https://www.nasa.gov/image-detail/iss069-e-25553-lrg/)](https://github.com/danrfiuza)
+[![MasterHead](https://drive.google.com/u/0/drive-viewer/AKGpihYwfWuD3LkDaw2qic7-f07bwe0exVVifTTkbbVPd9tBGGTwUuXdL_8e0eiDO1xpAUzqXxK4YyAlmK5CMlebzwMXp5nzldGd7w=s1600-rw-v1)](https://github.com/danrfiuza)
 
 # Hi there 👋, I'm Daniel Fiuza
 
